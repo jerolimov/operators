@@ -45,7 +45,9 @@
 * https://operatorhub.io/
 * https://artifacthub.io/packages/search?kind=3&sort=relevance&page=1
 * https://github.com/orgs/openshift/repositories?q=operator+sort%3Astars
+* https://github.com/kudobuilder/operators
 
 **Alternativs:**
 
 * https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern
+* https://kudo.dev/
